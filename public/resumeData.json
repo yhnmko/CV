@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Giga",
+    "occupation": "Full Stack Software Developer",
+    "description": "currentrly employed by Thomson Reuters where i push pixels, shuffle data and slap my keyboard until everything works.",
+    "image": "profilepic.jpg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, and a passion for coding. I enjoy using my skills to contribute to the exciting technological advances that happen every day at Thomson Reuters. Outside of work I am an avid fisherman, and love to play chess. I dream of being able to take my work with me while travelling the world.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "mg.giga@gmail.com",
+    "phone": "+995 598-244-110",
+    "address": {
+      "street": "Nekrasovi Street",
+      "city": "Rustavi",
+      "state": "Georgia",
+      "zip": "3700"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/yhnmko",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "This are the skills that I have experience with",
+    "education": [
+      
+    ],
+    "work": [
+      {
+        "company": "Thomson Reuters",
+        "title": "Software Developer",
+        "years": "May 2018 - Present",
+        "description": "As a member of big and talented team, I am working on a Global Trade solution software. This currently consists of a .Net/Web Forms (migrating to Angular) and SQL Servers (migrating to AWS)."
+      },
+      {
+        "company": "Administration of Didube Board",
+        "title": "Software Developer",
+        "years": "June 2016 - April 2018",
+        "description": "Created site layout and user inteface using HTML and CSS best practices, Implemented and refactored web pages. Maintained Database. Created web charts for data visualization."
+      },
+      {
+        "company": "Bank of Georgia",
+        "title": "Software Intern",
+        "years": "February 2015 - June 2015",
+        "description": "Passed various trainings including C#, Java, SQL/PLSQL, Design Patterns. Learnt business logic, starting from daily operations to system structure."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": ".Net",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Giga on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Giga excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Giga Mghebrishvili must be one of the most brilliant developers I've ever met!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
